@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @E-Cell-MJCET
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="logo-big-colour.png" alt="Logo" height=100>
+  </a>
 
-<!---
-E-Cell-MJCET/E-Cell-MJCET is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <h3 align="center">E-Cell MJCET</h3>
+
+  <p align="center">
+	  Official Github of E-Cell MJCET, fostering innovation and entrepreneurship through events, resources, and mentorship for aspiring entrepreneurs.
+  </p>
+</div>
