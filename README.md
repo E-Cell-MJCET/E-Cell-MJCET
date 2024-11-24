@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a>
     <img src="logo-big-colour.png" alt="Logo" height=100>
   </a>
 
